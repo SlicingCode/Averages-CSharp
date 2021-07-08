@@ -1,2 +1,2 @@
 # Averages C#
- C# program to display avertages
+ C# program to display averages
