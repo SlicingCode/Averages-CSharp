@@ -1,0 +1,10 @@
+C:\Users\17194\Desktop\GitHub\Averages\Averages\bin\Debug\Averages.exe.config
+C:\Users\17194\Desktop\GitHub\Averages\Averages\bin\Debug\Averages.exe
+C:\Users\17194\Desktop\GitHub\Averages\Averages\bin\Debug\Averages.pdb
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.csproj.AssemblyReference.cache
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.frmAverages.resources
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.Properties.Resources.resources
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.csproj.GenerateResource.cache
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.csproj.CoreCompileInputs.cache
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.exe
+C:\Users\17194\Desktop\GitHub\Averages\Averages\obj\Debug\Averages.pdb
